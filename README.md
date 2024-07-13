@@ -1,5 +1,9 @@
 Connectwise React Coding Assignment.
 
+Deployed link : https://connectwise-react-assignment-r8b4.vercel.app/
+
+Steps to run the project locally : 
+
 Clone the Repository.
 
 Repo Url : https://github.com/Gourab1312/Connectwise-React-Assignment
