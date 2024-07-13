@@ -14,5 +14,5 @@ Running the App using: npm run dev
 
 Open http://localhost:5173/ to view it in the browser.
 
-Use Add Parent button to add further parents
+Gif of my implementation : https://www.veed.io/view/04016f6b-afea-4a15-9795-2873999f8cea
 
